@@ -9,6 +9,14 @@
     <url>http://maven.apache.org</url>
 
 
+<repositories>
+        <repository>
+            <id>codelds</id>
+            <url>https://maven-central.storage-download.googleapis.com/repos/central/</url>
+        </repository>
+    </repositories>
+
+
     <properties>
         <maчven.compiler.source>1.8</maчven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
